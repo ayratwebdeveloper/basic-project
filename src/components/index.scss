@@ -5,6 +5,11 @@
 	--wrapper-bg: #fee6e3;
 }
 
+@font-face {
+	font-family: Philosopher;
+	src: url(../fonts/Philosopher-Regular.ttf);
+};
+
 * {
 	font-family: "Philosopher", sans-serif;
 	box-sizing: border-box;
